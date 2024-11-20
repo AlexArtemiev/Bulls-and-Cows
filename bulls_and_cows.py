@@ -53,5 +53,6 @@ class Generator:
 
 test = Generator()
 #print(test.genlist)
+print("start")
 while test.isWIn == False:
     print(test.checkIt(input()))
